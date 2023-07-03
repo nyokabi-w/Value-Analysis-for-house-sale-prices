@@ -1,6 +1,6 @@
 # **Value analysis for house sale prices in King County**
 
-![1681946812092](image/README/1681946812092.png)
+![1612409870411](https://github.com/nyokabi-w/Value-Analysis-for-house-sale-prices/assets/70520367/832f9384-a566-4520-9870-e0da0c3a5d05)
 
 ##### *Will your home renovations pay off?*
 
